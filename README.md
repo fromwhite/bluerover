@@ -1,3 +1,3 @@
 # bluerover
 
-> build a electric kart,self driving car with nvdia jetson
+> build a electric kart,self driving car with nvidia jetson
